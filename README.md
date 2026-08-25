@@ -192,7 +192,7 @@ src/
     reporting.ts
     threatResponse.ts
 docs/
-  Gemini_MCP_Host_연동_가이드.md
+  Tanium_Gateway_MCP_구축_가이드.md
 ```
 
 ## GitHub에 올리기 전에
